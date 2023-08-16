@@ -99,4 +99,3 @@ console.log('Task 4. All subjects array', allSubjectArr);
 // Task 5. Получить массив из предметов и отсортировать по количеству преподавателей на факультете от большего к меньшему
 allSubjectArr.sort((a, b) => a.teachers - b.teachers);
 console.log('Task 5. Sorted subjects array:', allSubjectArr);
-
